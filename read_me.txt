@@ -6,7 +6,7 @@ LaTeX-Unterlagen
 Inhalt
 <---->
 
-test
+testtest
 
 Der Inhalt entspricht dem Text der Aufgabe 2 des Modul.
 
