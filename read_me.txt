@@ -6,6 +6,8 @@ LaTeX-Unterlagen
 Inhalt
 <---->
 
+test
+
 Der Inhalt entspricht dem Text der Aufgabe 2 des Modul.
 
 Es kann sinnvoll sein, sich die PDF zur Aufgabe zwei noch einmal
