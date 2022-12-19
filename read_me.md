@@ -6,7 +6,6 @@ LaTeX-Unterlagen
 Inhalt
 <---->
 
-testtesttestHallo
 
 Der Inhalt entspricht dem Text der Aufgabe 2 des Modul.
 
